@@ -1,0 +1,14 @@
+{
+    "cmake.sourceDirectory": "F:/study/datasecurity/lab3/demo",
+    "files.associations": {
+        "stdio.h": "c",
+        "*.tcc": "c",
+        "random": "c",
+        "cmath": "c",
+        "typeinfo": "c",
+        "sstream": "c",
+        "regex": "c",
+        "functional": "c",
+        "errno.h": "c"
+    }
+}

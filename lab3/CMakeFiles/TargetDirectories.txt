@@ -1,0 +1,3 @@
+/mnt/f/study/datasecurity/lab3/CMakeFiles/he.dir
+/mnt/f/study/datasecurity/lab3/CMakeFiles/edit_cache.dir
+/mnt/f/study/datasecurity/lab3/CMakeFiles/rebuild_cache.dir

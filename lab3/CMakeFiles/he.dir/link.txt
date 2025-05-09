@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/he.dir/ckks_example.cpp.o -o he  -lSEAL::seal 
